@@ -28,7 +28,12 @@ Directories are grouped by ML Libraries + Coursework examples
 |   |   |-- Pattern-Based Learning (Exploitation Training) for Toxic Language
 |   |
 |   |--SI670 - Applied Machine Learning
+|   |   |--TBD
+|   |
 |   |--SI671 - Data Mining
+|   |   |-- Mining and Evaluating Frequent Itemsets on Twitter Emojis
+|   |   |-- Time Series analysis of COVID-19 trends for G7 Nations
+|   |   |-- Social Network Analysis for Amazon Product Reviews
 ```
 
 
